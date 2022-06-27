@@ -1,0 +1,10 @@
+<suite name = "suite1" verbbose="1" parallel = "classes" >
+
+    <test name = "login">
+        <classes>
+            <class name="baseTests.BaseTests"/>
+
+
+        </classes>
+    </test>
+</suite>
